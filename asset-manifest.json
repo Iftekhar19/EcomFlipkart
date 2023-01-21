@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EcomFlipkart/static/css/main.b5f43fdb.css",
+    "main.js": "/EcomFlipkart/static/js/main.405f5a3e.js",
+    "index.html": "/EcomFlipkart/index.html",
+    "main.b5f43fdb.css.map": "/EcomFlipkart/static/css/main.b5f43fdb.css.map",
+    "main.405f5a3e.js.map": "/EcomFlipkart/static/js/main.405f5a3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5f43fdb.css",
+    "static/js/main.405f5a3e.js"
+  ]
+}
